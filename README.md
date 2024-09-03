@@ -1,2 +1,2 @@
-# Pf Lab 3 
-## Introduction to C language 
+# PF Lab 3
+## Introduction to C language
